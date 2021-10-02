@@ -1,0 +1,106 @@
+MT01
+15
+Ket qua cua phep cong 67 + 26 la:
+A. 83 
+B. 93 
+C. 94 
+D. 95
+B
+Phep tru 100 - 57 co ket qua la:
+A. 53
+B. 44 
+C. 43 
+D. 33
+C
+Tong nao duoi day be hon 56:
+A. 50 + 8 
+B. 49 + 7 
+C. 36 + 29 
+D. 48 + 6
+D
+Tinh ket qua 86 - 6 - 9 = ?
+A. 71
+B. 70 
+C. 81 
+D. 80
+A
+3 + 5 + 7 ..... 5 + 7 + 3. Dau can dien vao cho trong la :
+A. > 
+B. < 
+C. = 
+D. Khong co dau nao.
+C
+Hieu cua 73 va 37 la:
+A. 36
+B. 46 
+C. 35 
+D. 47
+A
+Chieu dai cua cai giuong e nam uoc chung la:
+A. 50 cm 
+B. 2 km 
+C. 2 m 
+D. 10 dm
+C
+So lien truoc cua 80 la:
+A. 79 
+B. 80 
+C. 81 
+D. 82
+A
+So lon hon 74 va nho hon 76 la:
+A. 73 
+B. 77 
+C. 75 
+D. 76
+C
+Hieu cua 64 va 31 la:
+A. 33 
+B. 77 
+C. 95 
+D. 34
+A
+1 + 1 = ?
+A. 1
+B. 2
+C. 3
+D. 4
+B
+2 + 2 = ?
+A. 2
+B. 4
+C. 6
+D. 8
+B
+3 + 3 = ?
+A. 3
+B. 6
+C. 9
+D. 12
+B
+4 + 4 = ?
+A. 2
+B. 4
+C. 8
+D. 6
+C
+5 + 5 = ?
+A. 5
+B. 15
+C. 20
+D. 10
+D
+S01
+0
+V01
+1
+Tac gia truyen kieu la ai?
+A. Nguyen Du
+B. Nguyen Trai
+C. Ho Chi Minh
+D. Mbappe
+A
+L01
+0
+H01
+0
